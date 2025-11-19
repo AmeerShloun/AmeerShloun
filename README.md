@@ -67,7 +67,7 @@ A task that required to plan for a program and arrange how it works using a stor
 My Work: [Storyboard](https://www.canva.com/design/DAG3ARLMMqc/k1I7ivpkspNHtanYs3KpCw/edit?utm_content=DAG3ARLMMqc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
-6. **Cybersecurity Experience**
+6. **🛡️Cybersecurity Experience**
 
 A task that required to know how to defend against hackers and be offense as hackers. It talks about the ropes of cybersecurity.
 
